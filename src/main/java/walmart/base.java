@@ -13,7 +13,7 @@ public class base {
 		
 	driver = new FirefoxDriver();
 		
-		driver.get("https://www.walmart.ca/en");
+		driver.get("https://www.walmart.c/en");
 		driver.manage().window().maximize();
 	}
 	
